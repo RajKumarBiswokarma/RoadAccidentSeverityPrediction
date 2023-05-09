@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/b4ca38cd2c414ab4b07714376ce5e253/artifacts
+end_time: 1682847543383
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: b4ca38cd2c414ab4b07714376ce5e253
+run_name: bustling-gull-520
+run_uuid: b4ca38cd2c414ab4b07714376ce5e253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682847539249
+status: 3
+tags: []
+user_id: rajkumar

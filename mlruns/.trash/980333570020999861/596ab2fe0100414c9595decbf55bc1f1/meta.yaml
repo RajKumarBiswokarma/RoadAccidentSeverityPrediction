@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/596ab2fe0100414c9595decbf55bc1f1/artifacts
+deleted_time: 1682772443564
+end_time: 1682751548289
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 596ab2fe0100414c9595decbf55bc1f1
+run_name: magnificent-cod-789
+run_uuid: 596ab2fe0100414c9595decbf55bc1f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682751541482
+status: 3
+tags: []
+user_id: rajkumar

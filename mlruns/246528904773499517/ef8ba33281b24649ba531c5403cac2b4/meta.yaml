@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246528904773499517/ef8ba33281b24649ba531c5403cac2b4/artifacts
+end_time: 1682790687940
+entry_point_name: ''
+experiment_id: '246528904773499517'
+lifecycle_stage: active
+run_id: ef8ba33281b24649ba531c5403cac2b4
+run_name: traveling-whale-130
+run_uuid: ef8ba33281b24649ba531c5403cac2b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682790629812
+status: 3
+tags: []
+user_id: rajkumar

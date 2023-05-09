@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/5db5e3bb3f494e879255a6c163787235/artifacts
+deleted_time: 1682751876779
+end_time: 1682740686839
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 5db5e3bb3f494e879255a6c163787235
+run_name: redolent-fly-684
+run_uuid: 5db5e3bb3f494e879255a6c163787235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682740685818
+status: 4
+tags: []
+user_id: rajkumar

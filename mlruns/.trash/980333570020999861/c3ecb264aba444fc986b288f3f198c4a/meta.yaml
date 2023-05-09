@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/c3ecb264aba444fc986b288f3f198c4a/artifacts
+deleted_time: 1682751849147
+end_time: 1682751719178
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: c3ecb264aba444fc986b288f3f198c4a
+run_name: able-sheep-307
+run_uuid: c3ecb264aba444fc986b288f3f198c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682751719141
+status: 4
+tags: []
+user_id: rajkumar

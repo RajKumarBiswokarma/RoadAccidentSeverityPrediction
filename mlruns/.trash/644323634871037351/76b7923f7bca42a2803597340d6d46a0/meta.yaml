@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/644323634871037351/76b7923f7bca42a2803597340d6d46a0/artifacts
+deleted_time: 1682772439781
+end_time: 1682754089985
+entry_point_name: ''
+experiment_id: '644323634871037351'
+lifecycle_stage: deleted
+run_id: 76b7923f7bca42a2803597340d6d46a0
+run_name: masked-crow-433
+run_uuid: 76b7923f7bca42a2803597340d6d46a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682754083961
+status: 3
+tags: []
+user_id: rajkumar

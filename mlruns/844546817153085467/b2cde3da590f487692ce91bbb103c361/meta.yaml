@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844546817153085467/b2cde3da590f487692ce91bbb103c361/artifacts
+end_time: 1682784117880
+entry_point_name: ''
+experiment_id: '844546817153085467'
+lifecycle_stage: active
+run_id: b2cde3da590f487692ce91bbb103c361
+run_name: useful-bear-809
+run_uuid: b2cde3da590f487692ce91bbb103c361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682784110668
+status: 3
+tags: []
+user_id: rajkumar

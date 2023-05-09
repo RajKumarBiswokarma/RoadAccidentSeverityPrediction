@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246528904773499517/165eaeaa92ee4a499e239bafb8a287d8/artifacts
+end_time: 1682847758045
+entry_point_name: ''
+experiment_id: '246528904773499517'
+lifecycle_stage: active
+run_id: 165eaeaa92ee4a499e239bafb8a287d8
+run_name: entertaining-kit-590
+run_uuid: 165eaeaa92ee4a499e239bafb8a287d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682847758015
+status: 4
+tags: []
+user_id: rajkumar

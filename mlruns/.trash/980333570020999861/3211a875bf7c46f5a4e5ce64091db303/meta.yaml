@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/3211a875bf7c46f5a4e5ce64091db303/artifacts
+deleted_time: 1682751876778
+end_time: 1682740754534
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 3211a875bf7c46f5a4e5ce64091db303
+run_name: bouncy-sheep-636
+run_uuid: 3211a875bf7c46f5a4e5ce64091db303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682740753415
+status: 4
+tags: []
+user_id: rajkumar

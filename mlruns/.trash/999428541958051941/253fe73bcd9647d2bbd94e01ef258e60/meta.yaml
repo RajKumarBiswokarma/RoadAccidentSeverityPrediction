@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/999428541958051941/253fe73bcd9647d2bbd94e01ef258e60/artifacts
+deleted_time: 1682772436131
+end_time: 1682757449740
+entry_point_name: ''
+experiment_id: '999428541958051941'
+lifecycle_stage: deleted
+run_id: 253fe73bcd9647d2bbd94e01ef258e60
+run_name: smiling-wasp-346
+run_uuid: 253fe73bcd9647d2bbd94e01ef258e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682757360719
+status: 3
+tags: []
+user_id: rajkumar

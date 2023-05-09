@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/3170a613f9be4ff98a22a637eb8c0601/artifacts
+end_time: 1682773094804
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: 3170a613f9be4ff98a22a637eb8c0601
+run_name: capable-ox-484
+run_uuid: 3170a613f9be4ff98a22a637eb8c0601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682773090828
+status: 3
+tags: []
+user_id: rajkumar

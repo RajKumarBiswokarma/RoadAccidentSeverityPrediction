@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/2635051c1b53483d8726caf2e9999dda/artifacts
+deleted_time: 1682772443564
+end_time: 1682754900397
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 2635051c1b53483d8726caf2e9999dda
+run_name: skittish-shrike-726
+run_uuid: 2635051c1b53483d8726caf2e9999dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682754900254
+status: 4
+tags: []
+user_id: rajkumar

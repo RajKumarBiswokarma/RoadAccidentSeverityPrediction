@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844546817153085467/81c63020cf0f43628834324832c0a569/artifacts
+end_time: 1682786717412
+entry_point_name: ''
+experiment_id: '844546817153085467'
+lifecycle_stage: active
+run_id: 81c63020cf0f43628834324832c0a569
+run_name: gentle-foal-149
+run_uuid: 81c63020cf0f43628834324832c0a569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682786715194
+status: 3
+tags: []
+user_id: rajkumar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/181329989193874871/248032545a614f78b47066ffc73c09fe/artifacts
+end_time: 1682796209733
+entry_point_name: ''
+experiment_id: '181329989193874871'
+lifecycle_stage: active
+run_id: 248032545a614f78b47066ffc73c09fe
+run_name: serious-shrew-854
+run_uuid: 248032545a614f78b47066ffc73c09fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682796209700
+status: 4
+tags: []
+user_id: rajkumar

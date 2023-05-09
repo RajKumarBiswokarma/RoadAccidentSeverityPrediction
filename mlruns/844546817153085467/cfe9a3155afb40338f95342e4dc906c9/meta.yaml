@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844546817153085467/cfe9a3155afb40338f95342e4dc906c9/artifacts
+end_time: 1682783962341
+entry_point_name: ''
+experiment_id: '844546817153085467'
+lifecycle_stage: active
+run_id: cfe9a3155afb40338f95342e4dc906c9
+run_name: thoughtful-panda-591
+run_uuid: cfe9a3155afb40338f95342e4dc906c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682783955633
+status: 3
+tags: []
+user_id: rajkumar

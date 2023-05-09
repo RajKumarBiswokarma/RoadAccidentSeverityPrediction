@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/181329989193874871/6689b28bad584ba1bcf73caf464749a4/artifacts
+end_time: 1682796433452
+entry_point_name: ''
+experiment_id: '181329989193874871'
+lifecycle_stage: active
+run_id: 6689b28bad584ba1bcf73caf464749a4
+run_name: honorable-crab-17
+run_uuid: 6689b28bad584ba1bcf73caf464749a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682796393282
+status: 3
+tags: []
+user_id: rajkumar

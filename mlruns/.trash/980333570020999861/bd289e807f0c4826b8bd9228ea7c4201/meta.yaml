@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/bd289e807f0c4826b8bd9228ea7c4201/artifacts
+deleted_time: 1682772443564
+end_time: 1682754992716
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: bd289e807f0c4826b8bd9228ea7c4201
+run_name: victorious-goat-851
+run_uuid: bd289e807f0c4826b8bd9228ea7c4201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682754992561
+status: 4
+tags: []
+user_id: rajkumar

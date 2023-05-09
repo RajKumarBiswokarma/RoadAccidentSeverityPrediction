@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/181329989193874871
+creation_time: 1682796209690
+experiment_id: '181329989193874871'
+last_update_time: 1682796209690
+lifecycle_stage: active
+name: XG_boosting_experiment

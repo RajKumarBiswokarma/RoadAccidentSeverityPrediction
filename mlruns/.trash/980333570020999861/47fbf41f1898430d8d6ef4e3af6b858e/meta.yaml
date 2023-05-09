@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/47fbf41f1898430d8d6ef4e3af6b858e/artifacts
+deleted_time: 1682772443564
+end_time: 1682754047723
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 47fbf41f1898430d8d6ef4e3af6b858e
+run_name: exultant-croc-870
+run_uuid: 47fbf41f1898430d8d6ef4e3af6b858e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682754041618
+status: 3
+tags: []
+user_id: rajkumar

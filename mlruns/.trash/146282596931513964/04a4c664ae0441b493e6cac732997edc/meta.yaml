@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/146282596931513964/04a4c664ae0441b493e6cac732997edc/artifacts
+deleted_time: 1682751884448
+end_time: 1682751743450
+entry_point_name: ''
+experiment_id: '146282596931513964'
+lifecycle_stage: deleted
+run_id: 04a4c664ae0441b493e6cac732997edc
+run_name: charming-zebra-325
+run_uuid: 04a4c664ae0441b493e6cac732997edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682751741676
+status: 4
+tags: []
+user_id: rajkumar

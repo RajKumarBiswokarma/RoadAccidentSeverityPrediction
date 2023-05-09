@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523182904268869568/d19f55310eff4b2f9cc2f64033b138dc/artifacts
+deleted_time: 1682753399745
+end_time: 1682741330987
+entry_point_name: ''
+experiment_id: '523182904268869568'
+lifecycle_stage: deleted
+run_id: d19f55310eff4b2f9cc2f64033b138dc
+run_name: exultant-pug-151
+run_uuid: d19f55310eff4b2f9cc2f64033b138dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682741325547
+status: 3
+tags: []
+user_id: rajkumar

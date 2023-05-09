@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/30e4d3a3d83040889ab3085c462ced50/artifacts
+end_time: 1682773131401
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: 30e4d3a3d83040889ab3085c462ced50
+run_name: judicious-ape-246
+run_uuid: 30e4d3a3d83040889ab3085c462ced50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682773126962
+status: 3
+tags: []
+user_id: rajkumar

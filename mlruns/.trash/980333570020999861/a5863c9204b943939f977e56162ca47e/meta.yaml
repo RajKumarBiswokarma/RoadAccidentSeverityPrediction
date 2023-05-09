@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/a5863c9204b943939f977e56162ca47e/artifacts
+deleted_time: 1682772443564
+end_time: 1682755238996
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: a5863c9204b943939f977e56162ca47e
+run_name: adaptable-moose-977
+run_uuid: a5863c9204b943939f977e56162ca47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682755222765
+status: 3
+tags: []
+user_id: rajkumar

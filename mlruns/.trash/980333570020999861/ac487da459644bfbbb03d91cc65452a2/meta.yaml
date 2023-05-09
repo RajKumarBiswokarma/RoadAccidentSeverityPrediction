@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/ac487da459644bfbbb03d91cc65452a2/artifacts
+deleted_time: 1682772443564
+end_time: 1682755197746
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: ac487da459644bfbbb03d91cc65452a2
+run_name: languid-shoat-709
+run_uuid: ac487da459644bfbbb03d91cc65452a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682755181390
+status: 3
+tags: []
+user_id: rajkumar

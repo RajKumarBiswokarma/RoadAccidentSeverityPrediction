@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/691aafc8d4ff4264bacbec14eb537d47/artifacts
+deleted_time: 1682772443564
+end_time: 1682754955105
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 691aafc8d4ff4264bacbec14eb537d47
+run_name: salty-grouse-524
+run_uuid: 691aafc8d4ff4264bacbec14eb537d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682754955094
+status: 4
+tags: []
+user_id: rajkumar

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/35c63c2ff8674c519cfc529175f21041/artifacts
+deleted_time: 1682772443564
+end_time: 1682753895811
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 35c63c2ff8674c519cfc529175f21041
+run_name: adorable-trout-981
+run_uuid: 35c63c2ff8674c519cfc529175f21041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682753885630
+status: 3
+tags: []
+user_id: rajkumar

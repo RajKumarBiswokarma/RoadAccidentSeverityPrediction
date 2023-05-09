@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/146282596931513964/4eda7678414040789019f89ddb172ae9/artifacts
+deleted_time: 1682753403299
+end_time: 1682741032347
+entry_point_name: ''
+experiment_id: '146282596931513964'
+lifecycle_stage: deleted
+run_id: 4eda7678414040789019f89ddb172ae9
+run_name: sedate-dove-535
+run_uuid: 4eda7678414040789019f89ddb172ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682741024434
+status: 3
+tags: []
+user_id: rajkumar

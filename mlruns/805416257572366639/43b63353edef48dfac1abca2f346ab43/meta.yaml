@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/43b63353edef48dfac1abca2f346ab43/artifacts
+end_time: 1682773029889
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: 43b63353edef48dfac1abca2f346ab43
+run_name: placid-bee-676
+run_uuid: 43b63353edef48dfac1abca2f346ab43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682773026678
+status: 3
+tags: []
+user_id: rajkumar

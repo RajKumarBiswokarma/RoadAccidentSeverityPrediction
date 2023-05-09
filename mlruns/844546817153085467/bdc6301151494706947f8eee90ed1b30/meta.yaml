@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844546817153085467/bdc6301151494706947f8eee90ed1b30/artifacts
+end_time: 1682786737118
+entry_point_name: ''
+experiment_id: '844546817153085467'
+lifecycle_stage: active
+run_id: bdc6301151494706947f8eee90ed1b30
+run_name: nebulous-frog-606
+run_uuid: bdc6301151494706947f8eee90ed1b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682786735106
+status: 3
+tags: []
+user_id: rajkumar

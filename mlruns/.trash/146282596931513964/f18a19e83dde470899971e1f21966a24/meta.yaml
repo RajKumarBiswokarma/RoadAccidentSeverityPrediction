@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/146282596931513964/f18a19e83dde470899971e1f21966a24/artifacts
+deleted_time: 1682753403299
+end_time: 1682751807086
+entry_point_name: ''
+experiment_id: '146282596931513964'
+lifecycle_stage: deleted
+run_id: f18a19e83dde470899971e1f21966a24
+run_name: unique-midge-657
+run_uuid: f18a19e83dde470899971e1f21966a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682751802225
+status: 3
+tags: []
+user_id: rajkumar

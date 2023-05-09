@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/889728994421723107/ffeab3397d6a463f806570b7e9f1c508/artifacts
+deleted_time: 1682768898924
+end_time: 1682755470118
+entry_point_name: ''
+experiment_id: '889728994421723107'
+lifecycle_stage: deleted
+run_id: ffeab3397d6a463f806570b7e9f1c508
+run_name: skittish-crow-766
+run_uuid: ffeab3397d6a463f806570b7e9f1c508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682755454558
+status: 3
+tags: []
+user_id: rajkumar

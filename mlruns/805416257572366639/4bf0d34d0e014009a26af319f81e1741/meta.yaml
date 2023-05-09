@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/4bf0d34d0e014009a26af319f81e1741/artifacts
+end_time: 1682847568561
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: 4bf0d34d0e014009a26af319f81e1741
+run_name: zealous-foal-943
+run_uuid: 4bf0d34d0e014009a26af319f81e1741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682847561380
+status: 3
+tags: []
+user_id: rajkumar

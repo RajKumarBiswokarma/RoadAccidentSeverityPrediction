@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/368fc8f1cc354fefaa1d0fd4821c1d1b/artifacts
+deleted_time: 1682751876776
+end_time: 1682740773405
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 368fc8f1cc354fefaa1d0fd4821c1d1b
+run_name: bemused-turtle-120
+run_uuid: 368fc8f1cc354fefaa1d0fd4821c1d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682740772443
+status: 4
+tags: []
+user_id: rajkumar

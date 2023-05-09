@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/889728994421723107/9702a2b8e418474f8b13de877f0888b4/artifacts
+deleted_time: 1682768898924
+end_time: 1682755562235
+entry_point_name: ''
+experiment_id: '889728994421723107'
+lifecycle_stage: deleted
+run_id: 9702a2b8e418474f8b13de877f0888b4
+run_name: magnificent-wren-366
+run_uuid: 9702a2b8e418474f8b13de877f0888b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682755548003
+status: 3
+tags: []
+user_id: rajkumar

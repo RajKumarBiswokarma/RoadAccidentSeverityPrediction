@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246528904773499517/a094c5a77d484f898f4dd11fbdf26cd2/artifacts
+end_time: 1682847825637
+entry_point_name: ''
+experiment_id: '246528904773499517'
+lifecycle_stage: active
+run_id: a094c5a77d484f898f4dd11fbdf26cd2
+run_name: invincible-midge-443
+run_uuid: a094c5a77d484f898f4dd11fbdf26cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682847773095
+status: 3
+tags: []
+user_id: rajkumar

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/bbaaca6dcc7d409285a2b709461bb0da/artifacts
+deleted_time: 1682772443564
+end_time: 1682753321455
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: bbaaca6dcc7d409285a2b709461bb0da
+run_name: righteous-bass-350
+run_uuid: bbaaca6dcc7d409285a2b709461bb0da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682753313288
+status: 3
+tags: []
+user_id: rajkumar

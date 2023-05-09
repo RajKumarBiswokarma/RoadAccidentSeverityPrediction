@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/181329989193874871/bec388edb22d45a3b4f766785ea2ac86/artifacts
+end_time: 1682847932239
+entry_point_name: ''
+experiment_id: '181329989193874871'
+lifecycle_stage: active
+run_id: bec388edb22d45a3b4f766785ea2ac86
+run_name: wise-perch-205
+run_uuid: bec388edb22d45a3b4f766785ea2ac86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682847897609
+status: 3
+tags: []
+user_id: rajkumar

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/644323634871037351/f1c37d1afbe94bb4a30627eef7b5adc9/artifacts
+deleted_time: 1682772439781
+end_time: 1682754179478
+entry_point_name: ''
+experiment_id: '644323634871037351'
+lifecycle_stage: deleted
+run_id: f1c37d1afbe94bb4a30627eef7b5adc9
+run_name: big-panda-805
+run_uuid: f1c37d1afbe94bb4a30627eef7b5adc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682754173544
+status: 3
+tags: []
+user_id: rajkumar

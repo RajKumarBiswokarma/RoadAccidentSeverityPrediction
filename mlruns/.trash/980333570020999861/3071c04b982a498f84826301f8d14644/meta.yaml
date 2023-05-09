@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/3071c04b982a498f84826301f8d14644/artifacts
+deleted_time: 1682751862492
+end_time: 1682741019160
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: 3071c04b982a498f84826301f8d14644
+run_name: upbeat-hound-14
+run_uuid: 3071c04b982a498f84826301f8d14644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682741019082
+status: 4
+tags: []
+user_id: rajkumar

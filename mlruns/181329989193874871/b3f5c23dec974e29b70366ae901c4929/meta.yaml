@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/181329989193874871/b3f5c23dec974e29b70366ae901c4929/artifacts
+end_time: 1682796376846
+entry_point_name: ''
+experiment_id: '181329989193874871'
+lifecycle_stage: active
+run_id: b3f5c23dec974e29b70366ae901c4929
+run_name: valuable-shrike-403
+run_uuid: b3f5c23dec974e29b70366ae901c4929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682796340424
+status: 4
+tags: []
+user_id: rajkumar

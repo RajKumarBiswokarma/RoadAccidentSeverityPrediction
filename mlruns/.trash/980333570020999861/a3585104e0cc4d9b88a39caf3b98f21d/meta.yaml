@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/980333570020999861/a3585104e0cc4d9b88a39caf3b98f21d/artifacts
+deleted_time: 1682772443564
+end_time: 1682740790699
+entry_point_name: ''
+experiment_id: '980333570020999861'
+lifecycle_stage: deleted
+run_id: a3585104e0cc4d9b88a39caf3b98f21d
+run_name: nosy-vole-837
+run_uuid: a3585104e0cc4d9b88a39caf3b98f21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682740784517
+status: 3
+tags: []
+user_id: rajkumar

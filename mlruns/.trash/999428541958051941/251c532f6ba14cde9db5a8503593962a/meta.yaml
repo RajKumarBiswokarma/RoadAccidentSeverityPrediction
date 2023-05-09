@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/999428541958051941/251c532f6ba14cde9db5a8503593962a/artifacts
+deleted_time: 1682772436131
+end_time: 1682757761290
+entry_point_name: ''
+experiment_id: '999428541958051941'
+lifecycle_stage: deleted
+run_id: 251c532f6ba14cde9db5a8503593962a
+run_name: agreeable-donkey-873
+run_uuid: 251c532f6ba14cde9db5a8503593962a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682757675286
+status: 4
+tags: []
+user_id: rajkumar

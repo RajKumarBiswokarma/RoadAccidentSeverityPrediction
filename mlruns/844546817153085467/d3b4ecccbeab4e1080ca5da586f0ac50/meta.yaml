@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844546817153085467/d3b4ecccbeab4e1080ca5da586f0ac50/artifacts
+end_time: 1682786893016
+entry_point_name: ''
+experiment_id: '844546817153085467'
+lifecycle_stage: active
+run_id: d3b4ecccbeab4e1080ca5da586f0ac50
+run_name: charming-penguin-647
+run_uuid: d3b4ecccbeab4e1080ca5da586f0ac50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682786888467
+status: 3
+tags: []
+user_id: rajkumar

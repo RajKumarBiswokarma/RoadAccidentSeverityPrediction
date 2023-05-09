@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/78a4e40dc2ba48eeaa33ef00a877332e/artifacts
+end_time: 1682772703570
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: 78a4e40dc2ba48eeaa33ef00a877332e
+run_name: gregarious-fish-29
+run_uuid: 78a4e40dc2ba48eeaa33ef00a877332e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682772700342
+status: 3
+tags: []
+user_id: rajkumar

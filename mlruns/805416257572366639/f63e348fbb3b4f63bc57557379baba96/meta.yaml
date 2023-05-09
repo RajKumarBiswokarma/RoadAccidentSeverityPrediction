@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805416257572366639/f63e348fbb3b4f63bc57557379baba96/artifacts
+end_time: 1682847525820
+entry_point_name: ''
+experiment_id: '805416257572366639'
+lifecycle_stage: active
+run_id: f63e348fbb3b4f63bc57557379baba96
+run_name: flawless-dove-550
+run_uuid: f63e348fbb3b4f63bc57557379baba96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682847514791
+status: 3
+tags: []
+user_id: rajkumar

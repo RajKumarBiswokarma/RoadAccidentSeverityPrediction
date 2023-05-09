@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/999428541958051941/4b71abbd890a41a9ae84328057f5b679/artifacts
+deleted_time: 1682772436131
+end_time: 1682757962048
+entry_point_name: ''
+experiment_id: '999428541958051941'
+lifecycle_stage: deleted
+run_id: 4b71abbd890a41a9ae84328057f5b679
+run_name: peaceful-snail-457
+run_uuid: 4b71abbd890a41a9ae84328057f5b679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682757874009
+status: 3
+tags: []
+user_id: rajkumar
