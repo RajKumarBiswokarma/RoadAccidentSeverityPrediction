@@ -2,7 +2,7 @@ import joblib
 import gradio as gr
 import pandas as pd
 # Load the saved model from file using joblib
-loaded_model = joblib.load('ensemble_model.joblib')
+loaded_model = joblib.load('model/ensemble_model.joblib')
 
 
 
